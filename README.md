@@ -17,7 +17,7 @@ Testing the Feed Reader app using Javascript testing framework **Jasmine**.
 
 **Option-2 Using Terminal and Node.js**:
 - **Pre-requisite** : Install [node.js](https://nodejs.org/),  [npm](http://blog.npmjs.org/post/85484771375/how-to-install-npm), and [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- Clone this repo. Open your terminal and run `git clone git@github.com:yhagio/udacity-feedreader-test.git`
+- Clone this repo. Open your terminal and run `git clone git@github.com/saibodicherla/FeedReader.git` 
 - Install [http-server](https://www.npmjs.com/package/http-server) by `npm install -g http-server`
 - Then run `http-server` in terminal inside the root of the cloned repo.
 - Go to the URL **http://localhost:8080/** in browser.
